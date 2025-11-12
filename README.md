@@ -7,3 +7,5 @@
 ### Creating a File
 ### Creating a Path
 ### Switching Between File and Path
+
+## Operating on File and Path
