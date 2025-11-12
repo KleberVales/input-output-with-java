@@ -22,3 +22,4 @@
 ### Creating Part of the Path
 ### Accessing Path Elements
 ### Resolving Paths
+### Relativizing a Path
