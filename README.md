@@ -26,3 +26,4 @@
 ### Normalizing a Path
 ### Retrieving the Real File System Path
 ### Creating, Moving, and Deleting Files and Directories
+### Comparing Files with isSameFile() and mismatch()
