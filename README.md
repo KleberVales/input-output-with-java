@@ -10,6 +10,9 @@
 ### Creating a Path
 ### Switching Between File and Path
 
+--- 
+
 ## Operating on File and Path
 
 ### Using Shared Functionality
+### Handling Methods That Declare IOException
