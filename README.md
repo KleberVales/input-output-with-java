@@ -23,3 +23,4 @@
 ### Accessing Path Elements
 ### Resolving Paths
 ### Relativizing a Path
+### Normalizing a Path
