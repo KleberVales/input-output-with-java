@@ -20,3 +20,4 @@
 ### Interacting with NIO.2 Paths
 ### Viewing the Path
 ### Creating Part of the Path
+### Accessing Path Elements
